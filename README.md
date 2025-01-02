@@ -120,3 +120,4 @@ docker-compose exec database mysqldump -u root -p fastapi_app > mysql/db/dump.sq
 ### API documentation
 
 http://localhost:8000/redoc
+
